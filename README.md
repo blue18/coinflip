@@ -1,1 +1,2 @@
-# coinflip
+Head/Tails program
+
